@@ -1,4 +1,4 @@
 (function() {
-  Discourse.Markdown.whiteListIframe(/^(http?:)?\/\/www\.intecons\.in\/.+/i);
+  Discourse.Markdown.whiteListIframe(/^(https?:)?\/\/www\.intecons\.in\/.+/i);
 })();
 
