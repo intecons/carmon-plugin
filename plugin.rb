@@ -1,6 +1,6 @@
-# name: Iframe Whitelist
+# name: carmon plugin
 # version: 0.0.1
-# authors: scossar
+# authors: intecons
 
-# whitelist raw iframes posted by users
-register_asset 'javascripts/iframe-whitelist.js', :server_side
+# functionality for discourse
+register_asset 'javascripts/carmon-plugin.js', :server_side
